@@ -1,4 +1,5 @@
 ![MAGICC Lab Logo](https://brightspotcdn.byu.edu/33/d8/2c1ad51c4febb2e4e1951c973bca/logo.svg) <!-- Replace with actual logo URL -->
+
 # BYU MAGICC Lab 
 
 Welcome to the official GitHub page of the **Brigham Young University MAGICC Lab**! Here we explore innovative research in **robotics, control theory, autonomous systems,** and more. Our mission is to push the boundaries of engineering and computer science to enable the next generation of intelligent systems.
@@ -9,7 +10,7 @@ Welcome to the official GitHub page of the **Brigham Young University MAGICC Lab
 
 ## 🌟 Our Vision
 
-At MAGICC Lab, we aim to develop cutting-edge solutions to empower autonomous systems in a wide range of applications, from UAVs to intelligent ground robots. Our research is centered around:
+At MAGICC Lab, we aim to develop cutting-edge solutions to empower autonomous systems in various applications, from UAVs to intelligent ground robots. Our research is centered around:
 
 - 🧠 **Intelligent Control Systems** – Crafting algorithms that adapt to dynamic environments
 - 🚁 **Autonomous Aerial Vehicles** – Designing UAVs that operate safely and independently
@@ -38,7 +39,7 @@ Explore the full list of our [repositories](https://github.com/byu-magicc) to le
 
 ## 📚 Publications
 
-We publish our research findings in top-tier journals and conferences. Check out our [publications page](https://magicc.byu.edu/publications) for a complete list of papers and technical reports.
+We publish our research findings in top-tier journals and conferences. For a complete list of papers and technical reports, check out our [publications page](https://magicc.byu.edu/publications).
 
 ---
 
