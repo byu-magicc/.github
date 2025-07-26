@@ -41,7 +41,7 @@ We publish our research findings in top-tier journals and conferences. For a lis
 
 ## Connect with Us
 
-- **Email:** [magicc.lab@gmail.com](mailto:contact@magicc.lab@gmail.com)
+- **Email:** [magicc.lab@gmail.com](mailto:magicc.lab@gmail.com)
 - **Website:** [magicc.byu.edu](https://magicc.byu.edu/)
 - **Location:** Brigham Young University, Provo, Utah, USA
 
