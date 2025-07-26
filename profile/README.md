@@ -4,9 +4,9 @@
 
 Welcome to the official GitHub page of the **Brigham Young University MAGICC Lab**! Here we explore innovative research in **robotics, control theory, autonomous systems,** and more.
 
-[Visit Our Website](https://magicc.byu.edu/)
-
----
+- [Visit Our Website](https://magicc.byu.edu/)
+- [Visit Our PyPI Organization](https://pypi.org/org/byu-magicc/)
+- [Email Us](mailto:magicc.lab@gmail.com)
 
 ## Our Vision
 
@@ -30,13 +30,3 @@ In the MAGICC Lab, we aim to develop cutting-edge solutions to empower autonomou
 ### 3. **Vision-Based Obstacle Detection**
    - Description: Using computer vision techniques to detect and avoid obstacles in real-time.
    - Technology Stack: OpenCV, TensorFlow, CUDA
-
----
-
-## Connect with Us
-
-- **Email:** [magicc.lab@gmail.com](mailto:magicc.lab@gmail.com)
-- **Website:** [magicc.byu.edu](https://magicc.byu.edu/)
-- **Location:** Brigham Young University, Provo, Utah, USA
-
----
