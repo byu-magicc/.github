@@ -33,12 +33,6 @@ In the MAGICC Lab, we aim to develop cutting-edge solutions to empower autonomou
 
 ---
 
-## Publications
-
-We publish our research findings in top-tier journals and conferences. For a list of papers and technical reports, check out our [publications page](https://magicc.byu.edu/publications).
-
----
-
 ## Connect with Us
 
 - **Email:** [magicc.lab@gmail.com](mailto:magicc.lab@gmail.com)
